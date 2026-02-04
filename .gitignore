@@ -1,16 +1,3 @@
-# Python
-__pycache__/
-*.pyc
-*.pyo
-*.pyd
-
-# Virtual environment
-venv/
-.env/
-
-# Database
-*.db
-
-# OS
-.DS_Store
-Thumbs.db
+<<<<<<< HEAD
+=======
+>>>>>>> origin/main
